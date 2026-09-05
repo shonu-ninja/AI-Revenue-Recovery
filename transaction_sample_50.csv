@@ -1,0 +1,51 @@
+transaction_id,account_number,customer_name,email,amount,status,debit_status,failure_reason,internal_note
+IMP001,IMPACC001,Neha Kapoor,neha.kapoor@example.com,1250.00,SUCCESS,DEBITED,,normal payment
+IMP002,IMPACC002,Om Prakash,om.prakash@example.com,4999.00,FAILED,DEBITED,NETWORK_ISSUE,auto refund candidate
+IMP003,IMPACC003,Reyansh Das,reyansh.das@example.com,7500.00,FAILED,DEBITED,GATEWAY_TIMEOUT,admin review candidate
+IMP004,IMPACC004,Myra Sen,myra.sen@example.com,899.00,SUCCESS,DEBITED,,normal payment
+IMP005,IMPACC005,Dev Bansal,dev.bansal@example.com,14500.00,FAILED,PARTIAL,BANK_ISSUE,partial debit
+IMP006,IMPACC006,Kiara Thomas,kiara.thomas@example.com,2300.00,FAILED,DEBITED,TECHNICAL_ERROR,auto refund candidate
+IMP007,IMPACC007,Vihaan Roy,vihaan.roy@example.com,6700.00,FAILED,DEBITED,OTHER,admin review candidate
+IMP008,IMPACC008,Aadhya Bose,aadhya.bose@example.com,1999.00,SUCCESS,DEBITED,,normal payment
+IMP009,IMPACC009,Ansh Sethi,ansh.sethi@example.com,4500.00,FAILED,DEBITED,NETWORK_ISSUE,auto refund candidate
+IMP010,IMPACC010,Pari Ghosh,pari.ghosh@example.com,22000.00,FAILED,DEBITED,BANK_ISSUE,admin review candidate
+IMP011,IMPACC011,Arnav Pillai,arnav.pillai@example.com,3100.00,SUCCESS,DEBITED,,normal payment
+IMP012,IMPACC012,Sia Arora,sia.arora@example.com,499.00,FAILED,NOT_DEBITED,TECHNICAL_ERROR,retry candidate
+IMP013,IMPACC013,Advait Jain,advait.jain@example.com,3800.00,FAILED,DEBITED,GATEWAY_TIMEOUT,auto refund candidate
+IMP014,IMPACC014,Riya Menon,riya.menon@example.com,9800.00,FAILED,DEBITED,OTHER,admin review candidate
+IMP015,IMPACC015,Manav Bhat,manav.bhat@example.com,1650.00,SUCCESS,DEBITED,,normal payment
+IMP016,IMPACC016,Anika Paul,anika.paul@example.com,2750.00,FAILED,DEBITED,NETWORK_ISSUE,auto refund candidate
+IMP017,IMPACC017,Harsh Vyas,harsh.vyas@example.com,12000.00,FAILED,PARTIAL,BANK_ISSUE,partial debit
+IMP018,IMPACC018,Ira Nanda,ira.nanda@example.com,4999.00,FAILED,DEBITED,OTHER,auto refund candidate
+IMP019,IMPACC019,Rudra Soni,rudra.soni@example.com,5400.00,FAILED,DEBITED,TECHNICAL_ERROR,admin review candidate
+IMP020,IMPACC020,Navya Gill,navya.gill@example.com,799.00,SUCCESS,DEBITED,,normal payment
+IMP021,IMPACC021,Aryan Dutta,aryan.dutta@example.com,2100.00,FAILED,DEBITED,NETWORK_ISSUE,auto refund candidate
+IMP022,IMPACC022,Tanvi Reddy,tanvi.reddy@example.com,18000.00,FAILED,DEBITED,GATEWAY_TIMEOUT,admin review candidate
+IMP023,IMPACC023,Yuvaan Kohli,yuvaan.kohli@example.com,3200.00,SUCCESS,DEBITED,,normal payment
+IMP024,IMPACC024,Avni Chawla,avni.chawla@example.com,4100.00,FAILED,DEBITED,OTHER,auto refund candidate
+IMP025,IMPACC025,Shivam Rao,shivam.rao@example.com,6100.00,FAILED,DEBITED,BANK_ISSUE,admin review candidate
+IMP026,IMPACC026,Anvi Puri,anvi.puri@example.com,1550.00,SUCCESS,DEBITED,,normal payment
+IMP027,IMPACC027,Krish Mallick,krish.mallick@example.com,2700.00,FAILED,DEBITED,TECHNICAL_ERROR,auto refund candidate
+IMP028,IMPACC028,Samaira Ali,samaira.ali@example.com,9200.00,FAILED,PARTIAL,BANK_ISSUE,partial debit
+IMP029,IMPACC029,Dhruv Mathur,dhruv.mathur@example.com,4999.00,FAILED,DEBITED,GATEWAY_TIMEOUT,auto refund candidate
+IMP030,IMPACC030,Mahi Walia,mahi.walia@example.com,15000.00,FAILED,DEBITED,OTHER,admin review candidate
+IMP031,IMPACC031,Advik Rao,advik.rao@example.com,1100.00,SUCCESS,DEBITED,,normal payment
+IMP032,IMPACC032,Shanaya Roy,shanaya.roy@example.com,3600.00,FAILED,DEBITED,NETWORK_ISSUE,auto refund candidate
+IMP033,IMPACC033,Parth Shah,parth.shah@example.com,8300.00,FAILED,DEBITED,TECHNICAL_ERROR,admin review candidate
+IMP034,IMPACC034,Aarohi Sood,aarohi.sood@example.com,2450.00,SUCCESS,DEBITED,,normal payment
+IMP035,IMPACC035,Ayush Jain,ayush.jain@example.com,4700.00,FAILED,DEBITED,OTHER,auto refund candidate
+IMP036,IMPACC036,Meher Kaur,meher.kaur@example.com,13200.00,FAILED,DEBITED,BANK_ISSUE,admin review candidate
+IMP037,IMPACC037,Veer Iyer,veer.iyer@example.com,890.00,SUCCESS,DEBITED,,normal payment
+IMP038,IMPACC038,Anaya Nair,anaya.nair@example.com,2999.00,FAILED,DEBITED,GATEWAY_TIMEOUT,auto refund candidate
+IMP039,IMPACC039,Rehaan Bose,rehaan.bose@example.com,7600.00,FAILED,PARTIAL,NETWORK_ISSUE,partial debit
+IMP040,IMPACC040,Inaya Khan,inaya.khan@example.com,4999.00,FAILED,DEBITED,TECHNICAL_ERROR,auto refund candidate
+IMP041,IMPACC041,Shrey Gupta,shrey.gupta@example.com,10800.00,FAILED,DEBITED,OTHER,admin review candidate
+IMP042,IMPACC042,Alisha Verma,alisha.verma@example.com,1750.00,SUCCESS,DEBITED,,normal payment
+IMP043,IMPACC043,Arush Bedi,arush.bedi@example.com,4300.00,FAILED,DEBITED,NETWORK_ISSUE,auto refund candidate
+IMP044,IMPACC044,Navya Suri,navya.suri@example.com,6800.00,FAILED,DEBITED,GATEWAY_TIMEOUT,admin review candidate
+IMP045,IMPACC045,Reyansh Khatri,reyansh.khatri@example.com,2600.00,SUCCESS,DEBITED,,normal payment
+IMP046,IMPACC046,Myra Dsilva,myra.dsilva@example.com,3900.00,FAILED,DEBITED,OTHER,auto refund candidate
+IMP047,IMPACC047,Arhaan Malik,arhaan.malik@example.com,14500.00,FAILED,DEBITED,BANK_ISSUE,admin review candidate
+IMP048,IMPACC048,Anaya Rathi,anaya.rathi@example.com,999.00,SUCCESS,DEBITED,,normal payment
+IMP049,IMPACC049,Vihaan Suri,vihaan.suri@example.com,4800.00,FAILED,DEBITED,TECHNICAL_ERROR,auto refund candidate
+IMP050,IMPACC050,Kiara Bahl,kiara.bahl@example.com,25000.00,FAILED,DEBITED,GATEWAY_TIMEOUT,admin review candidate
