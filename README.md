@@ -215,4 +215,8 @@ The seed script creates 20 demo accounts, 20 demo transactions, and five pending
 
 ## License
 
+<<<<<<< HEAD
 No license has been specified for this prototype.
+=======
+No license has been specified for this prototype.
+>>>>>>> d31a75c6ba5b39bd3c4340412d7c0e85f9a76b78
